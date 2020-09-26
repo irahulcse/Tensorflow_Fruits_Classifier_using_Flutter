@@ -1,6 +1,8 @@
-![Image](images/rover.jpg)
-#  :boom:
+![Image](images/rovers.jpg)
+<!-- #  :boom: -->
 
+#  Fruits Classifier using Tensorflow Flite using Flutter:boom:
+Created a Fruits Classifier which can be used to create the model which can be used to find the difference between them 
 
 
 ### Show some love :heart: and star the repo to support the project
@@ -13,16 +15,17 @@ The Parent Repository of this project can be found on this [link](https://github
 
 <!-- [Demo Application](https://irahulcse.github.io/Telegram_Ui_Flutter/) -->
 
-<!-- ## Features Needed to Be Added:
+## Features Listed Below:
 
-* [✅] Live Working Project
-* [✅] Widgets used like ListTile, ListView Builder, Center, Text and Circle Avatar Widgets
-* [❌] Everything is static right now, no API integration done on it. -->
+* [✅] Used Kaggle Dataset of different [flowers](https://www.kaggle.com/moltean/fruits).
+* [✅] Tensorflow Lite had been used to do the classification.
+* [✅] Trained the data on more than 50000 images of different fruits.
+* [✅] Average Accuracy is around 82%.
 
 
-<!-- ### Screenshots and Working GIFS: -->
+### Screenshots and Working GIFS:
 
-<!-- <img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/1.jpg" height="300em" width="250em"/> <img src="images/2.jpg" height="300em" width="250em"/> -->
+<img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/1.jpg" height="300em" width="250em"/> <img src="images/2.jpg" height="300em" width="250em"/>
 
 
  <!-- Sorry for the quality of the GIF :pray: -->
