@@ -23,9 +23,9 @@ The Parent Repository of this project can be found on this [link](https://github
 * [✅] Average Accuracy is around 82%.
 
 
-### Screenshots and Working GIFS:
+<!-- ### Screenshots and Working GIFS: -->
 
-<img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/1.jpg" height="300em" width="250em"/> <img src="images/2.jpg" height="300em" width="250em"/>
+<img src="images/rovers.gif" height="360em"  width="250em"/> <img src="images/1.PNG" height="360em" width="250em"/> <img src="images/2.PNG" height="360em" width="250em"/><img src="images/3.PNG" height="360em" width="250em"/><img src="images/4.PNG" height="360em" width="250em"/><img src="images/5.PNG" height="360em" width="250em"/>
 
 
  <!-- Sorry for the quality of the GIF :pray: -->
