@@ -1,7 +1,7 @@
 ![Image](images/rovers.jpg)
 <!-- #  :boom: -->
 
-#  Fruits Classifier using Tensorflow Flite using Flutter:boom:
+#  Fruits Classifier using Tensorflow Flite using Flutter :)
 Created a Fruits Classifier which can be used to create the model which can be used to find the difference between them 
 
 
